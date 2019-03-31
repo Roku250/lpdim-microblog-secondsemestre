@@ -1,0 +1,14 @@
+{
+    "name": "plouvin",
+    "description": "powered by @nilsine",
+    "type": "project",
+    "license": "MIT",
+    "authors": [{
+        "name": "Plouvin Florient",
+        "email": "plouvin.florient@gmail.com"
+    }],
+    "require": {
+        "twig/twig": "2.0",
+        "smarty/smarty": "^3.1"
+    }
+}
